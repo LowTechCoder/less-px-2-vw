@@ -8,5 +8,7 @@ example:
 
 add your less code to the test.less file
 run this command
+```
 bash convert_px_to_vw.bash test.less
+```
 check the output file 'convert_px_to_vw.less'
